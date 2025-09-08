@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "vooshi.helloWorld",
-        "title": "Hello World"
+        "command": "vooshi.sendSnippet",
+        "title": "Vooshi: Send Snippet"
       }
     ]
   },
